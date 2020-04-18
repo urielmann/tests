@@ -11,7 +11,8 @@
                 "/EHsc",
                 "/Zi",
                 "/Febin/x86/test.exe",
-                "src/test.cpp"
+                "src/test.cpp",
+                "src/CaseSensitive.cpp"
             ],
             "group": {
                 "kind": "build",
@@ -39,7 +40,8 @@
                 "/EHsc",
                 "/Zi",
                 "/Febin/x64/test.exe",
-                "src/test.cpp"
+                "src/test.cpp",
+                "src/CaseSensitive.cpp"
             ],
             "group": {
                 "kind": "build",
